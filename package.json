@@ -1,0 +1,21 @@
+{
+  "name": "next-import-svg",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "post-update": "yarn upgrade --latest"
+  },
+  "dependencies": {
+    "@svgr/webpack": "5.5.0",
+    "babel-plugin-inline-react-svg": "1.1.2",
+    "next": "latest",
+    "next-images": "1.6.2",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "description": ""
+}
