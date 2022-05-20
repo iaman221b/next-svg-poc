@@ -11,7 +11,7 @@ export default function IndexPage() {
         <h2>Using an img tag</h2>
         <img src="/eye.svg" alt="An SVG of an eye" />
         <h2>Using next/image</h2>
-        <Image src="/eye.svg" height={30} width={30} />
+        <Image src="/cake.svg" height={30} width={30} />
         <h2>Including directly</h2>
         <svg
           width="24px"
