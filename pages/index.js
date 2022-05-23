@@ -9,9 +9,9 @@ export default function IndexPage() {
     <div>
       <div>
         <h2>Using an img tag</h2>
-        <img src="/eye.svg" alt="An SVG of an eye" />
+        <img src="https://th.bing.com/th/id/OIP.vm4Ip3BcTsqwZPfSTPE4nAHaHv?pid=ImgDet&rs=1" alt="An SVG of an eye" />
         <h2>Using next/image</h2>
-        <Image src="/cake.svg" height={30} width={30} />
+        <Image src="https://th.bing.com/th/id/OIP.vm4Ip3BcTsqwZPfSTPE4nAHaHv?pid=ImgDet&rs=1" height={30} width={30} />
         <h2>Including directly</h2>
         <svg
           width="24px"
